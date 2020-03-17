@@ -1,4 +1,4 @@
-What is Aws GuarDuty?
+#What is Aws GuarDuty?
 Amazon GuardDuty is a threat detection service that continuously monitors for malicious activity and unauthorized behavior to protect your AWS accounts and workloads.
 
 
